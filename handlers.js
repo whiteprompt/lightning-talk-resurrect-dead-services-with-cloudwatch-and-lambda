@@ -35,7 +35,7 @@ module.exports = {
     let ok;
 
     try {
-      if (event.detail.state === 'ALARM' && event.detail.previousState === 'OK') {
+      if (event.detail.state.value === 'ALARM' && event.detail.previousState.value === 'OK') {
         const restartServiceData = await serviceRemediator.restartServiceFromAlarm(event);
         ok = restartServiceData.ok;
       }

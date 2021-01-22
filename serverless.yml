@@ -6,8 +6,6 @@ plugins:
 
 package:
   exclude:
-    - __tests__
-    - docs
     - tools
 
 custom:

@@ -1,2 +1,0 @@
-GET https://1234567890.execute-api.us-east-1.amazonaws.com/dev/test
-Content-Type: application/json

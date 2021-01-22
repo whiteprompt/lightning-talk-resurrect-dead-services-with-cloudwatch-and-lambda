@@ -1,4 +1,7 @@
-# Demo 
+# Demo Code for the Lightning Talk Execute remediation scripts from your logs with Lambda and EventBridge.
+
+* See the recording [here](https://youtu.be/4hSwNhOfsWY)
+* Slides [here](https://docs.google.com/presentation/d/1HczD_WMuna2dRslO-gtcTDtWsibisOmifahHWE8V3no/edit?usp=sharing)
 
 ## Running locally
 
